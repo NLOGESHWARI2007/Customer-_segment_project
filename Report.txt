@@ -1,0 +1,13 @@
+Customer Segmentation Project
+
+Objective:
+To segment customers based on income and spending behavior.
+
+Tools Used:
+Python, Pandas, Scikit-learn
+
+Method:
+K-Means Clustering
+
+Outcome:
+Customers are grouped into different segments for marketing analysis.
